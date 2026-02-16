@@ -1,0 +1,2 @@
+This repository consists of a list of programs which were used to refresh syntax and logic in C. WHile i have previous experience coding in C , I am using this space to relearn C in a sequential manner starting from the very basic to creating projects later. My main focus is to master the Syntax and to fullfill the gap in my knowledge and logic that were previously incomplete. This repository features a curated collection of programs, ranging from fundamental I/O operations to progressively complex 
+logical exercises.
